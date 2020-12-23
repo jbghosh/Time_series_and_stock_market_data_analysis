@@ -1,1 +1,2 @@
-# Time_series_and_stock_market_data_analysis
+# Time series and stock market data analysis
+# company: Google, Facebook, Mirosoft, and IBM
